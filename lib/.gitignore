@@ -1,0 +1,2 @@
+# Put the server jar here but do not commit it. You may want to change the path in the pom.xml
+/HytaleServer.jar

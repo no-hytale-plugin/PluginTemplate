@@ -1,0 +1,14 @@
+{
+  "Group": "NoPlugin",
+  "Name": "PluginTemplate",
+  "Version": "0.1.0",
+  "Authors": [
+    {
+      "Name": "Nokorbis",
+      "Url": "https://github.com/no-hytale-plugin"
+    }
+  ],
+  "Website": "https://github.com/no-hytale-plugin",
+  "Main": "noplugin.hytale.plugins.template.Plugin",
+  "ServerVersion": "*"
+}
