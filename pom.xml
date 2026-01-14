@@ -19,8 +19,8 @@
             <groupId>com.hypixel.hytale</groupId>
             <artifactId>HytaleServer</artifactId>
             <version>1.0.0</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/HytaleServer.jar</systemPath>
+            <!-- Download it from Hytale downloader and put it into
+                ~/.m2/repository/com/hypixel/hytale/HytaleServer/1.0.0/ -->
         </dependency>
     </dependencies>
 
